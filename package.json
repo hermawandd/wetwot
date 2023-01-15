@@ -17,7 +17,10 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
+    "@bochilteam/scraper": "^4.0.22-alpha.0",
+    "axios": "^1.2.2",
     "nmon": "^0.2.2",
+    "node-fetch": "^3.3.0",
     "nodemon": "^2.0.20",
     "qrcode-terminal": "^0.12.0"
   },
